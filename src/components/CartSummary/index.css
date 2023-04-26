@@ -1,0 +1,33 @@
+.summary_card_container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.summary_card {
+  /* width: 100%; */
+}
+
+.total_amount_para {
+  color: rgb(83, 78, 78);
+}
+
+.total_amount_span {
+  color: black;
+  font-weight: bold;
+}
+
+.items_count_details_para {
+  color: rgb(39, 36, 36);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.checkout_btn {
+  background-color: blue;
+  color: white;
+  font-weight: 600;
+  border: none;
+  padding: 10px 30px 10px 30px;
+  width: 100%;
+  border-radius: 6px;
+}
